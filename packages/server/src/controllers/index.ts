@@ -1,0 +1,17 @@
+export { Controller } from './controller';
+export { BrandController, IBrandJSON } from './brand.controller';
+export { BuyController, IBuyJSON } from './buy.controller';
+export { ClientController, IClientJSON } from './client.controller';
+export { ComponentController, IComponentJSON } from './component.controller';
+export { DolzhnostController, IDolzhnostJSON } from './dolzhnost.controller';
+export { First_inspectController, IFirst_inspectJSON } from './first_inspect.controller';
+export { GraphicController, IGraphicJSON } from './graphic.controller';
+export { MakerController, IMakerJSON } from './maker.controller';
+export { ModelController, IModelJSON } from './model.controller';
+export { OrderController, IOrderJSON } from './order.controller';
+export { ProviderController, IProviderJSON } from './provider.controller';
+export { Pruduct_trackController, IPruduct_trackJSON } from './pruduct_track.controller';
+export { Second_inspectController, ISecond_inspectJSON } from './second_inspect.controller';
+export { StatusController, IStatusJSON } from './status.controller';
+export { TelefoneController, ITelefoneJSON } from './telefone.controller';
+export { UsersController, IUsersJSON } from './users.controller';
